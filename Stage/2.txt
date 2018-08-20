@@ -1,0 +1,5 @@
+substring
+getdate
+isnull
+upper
+HASHBYTES
