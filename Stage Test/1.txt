@@ -1,0 +1,33 @@
+
+
+12:40 AM
+
+Chad Evans
+
+null~TypeError: Can not invoke method [jdk.internal.dynalink.beans.SimpleDynamicMethod ArrayList com.ads.SSIS2015_Rev_Engg_v2.SSIS2015RevEngg.startExecution(String)] with the passed arguments; they do not match any of its method signatures. in <eval> at line number 76
+
+
+
+
+1:02 AM
+
+Chad Evans
+
+Mapping Created Successfully with name dw_load_dim_client#1#1 : true
+
+Mapping Created Successfully with name Sequence#0#1 : true
+
+Mapping Created Successfully with name DFT obtain source_item_id_details : true
+
+Mapping Created Successfully with name Data Flow Task - Insert into staging client table and ClientIndustryHierarchy : true
+
+
+org.json.JSONException: A JSONArray text must start with '[' at character 0
+
+{"Output":{"statusDescription":"","statusNumber":0,"requestSuccess":true,"id":"6","userObjecta":null,"statusMessage":"Mapping Created Successfully"}}
+
+Mappings created  for the package : dw_load_dim_client
+
+ *********************
+
+
